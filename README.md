@@ -2,10 +2,10 @@
 
  # Team-Members
 
-   # Ram Chhabra
-   # Adarsh Yadav
-   # Tulsi
-   # Risab Jain
+    Ram Chhabra
+    Adarsh Yadav
+    Tulsi
+    Risab Jain
 
 
 
