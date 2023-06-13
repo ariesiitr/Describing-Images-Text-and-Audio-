@@ -1,5 +1,3 @@
-# Image-Description-Model
-
  # Team-Members
  
     Ram Chhabra
@@ -7,6 +5,7 @@
     Tulsi
     Risab Jain
 
+# Image-Description-Model
 
 
 
